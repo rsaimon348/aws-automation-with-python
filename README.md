@@ -1,2 +1,2 @@
-# aws-automation-with-python
-AWS automation with python
+# AWS Automation with python
+Learning *AWS automation with python* from ACloud Guru 
