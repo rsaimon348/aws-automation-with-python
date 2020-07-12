@@ -1,6 +1,9 @@
 # AWS Automation with python
 Learning *AWS automation with python* from ACloud Guru 
 
+### Ref
+-  https://github.com/ACloudGuru/automating-aws-with-python
+
 ## In order to follow this tutorial make sure you have following things installed
 - aws configure --profile profile_name
 - boto3
@@ -25,7 +28,7 @@ Learning *AWS automation with python* from ACloud Guru
 
 ### Features
 we have included following features
- - Add click module to pass argument and grouping the methods
+ - Add click module to pass argument and grouping  methods
  - List bucket
  - list contentes of a buckets
 
